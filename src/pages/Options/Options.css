@@ -1,0 +1,21 @@
+.OptionsContainer {
+  width: 100%;
+  height: 50vh;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3 {
+  padding-top: 30px;
+}
+
+.button-small {
+  width: 200px;
+  height: 50px;
+  padding: 0;
+  margin: 10px;
+}
