@@ -10,7 +10,7 @@ Udemy Summary with OpenAI is a simple Chrome/Brave Extension (manifest v3) that 
 
 You can install Udemy Summary with OpenAI extension from [Chrome Web Store](https://chrome.google.com/webstore/detail/).
 
-## Instal from source
+## Install from source
 
 To install this extension, follow these steps:
 
