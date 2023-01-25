@@ -4,9 +4,10 @@
   "description": "Generate summaries of Udemy video transcripts using the OpenAI API",
   "version": "1.1",
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
   },
   "background": { "service_worker": "background.bundle.js" },
   "permissions": ["storage", "activeTab", "webNavigation"],
@@ -16,7 +17,7 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.png"
+    "default_icon": "icon-48.png"
   },
   "options_page": "options.html",
   "content_scripts": [
