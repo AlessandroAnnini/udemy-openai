@@ -1,6 +1,6 @@
 {
   "name": "udemy-openai",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Generate summaries of Udemy video transcripts using the OpenAI API",
   "license": "MIT",
   "repository": {

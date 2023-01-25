@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Udemy Summary with OpenAI",
   "description": "Generate summaries of Udemy video transcripts using the OpenAI API",
-  "version": "1.1",
+  "version": "1.2",
   "icons": {
     "16": "icon-16.png",
     "32": "icon-32.png",
